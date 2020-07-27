@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chat>
+
+    <message>
+        <userid>1</userid>
+        <avatar>https://cdn.discordapp.com/emojis/736459983725527091.gif</avatar>
+        <username>Ramu</username>
+        <content>Hello How are You?</content>
+        <timestamp/>
+    </message>
+
+<message><userid>2</userid><username>kush</username><avatar>https://media.discordapp.net/attachments/736467143935262750/736467289951698994/728978822787104770.png</avatar><content>lol</content><timestamp>25/Jul/2020 07:44:08 PM</timestamp></message><message><userid>2</userid><username>Dynamo</username><avatar>https://media.discordapp.net/attachments/736467143935262750/736467289951698994/728978822787104770.png</avatar><content>WhatsUp</content><timestamp>25/Jul/2020 07:53:16 PM</timestamp></message></chat>
